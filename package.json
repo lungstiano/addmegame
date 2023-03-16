@@ -1,0 +1,14 @@
+{
+  "name": "addmeupgame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "AddMeUpgame.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lungelo Dlamini",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^10.0.0"
+  }
+}
